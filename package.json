@@ -1,0 +1,31 @@
+{
+  "name": "portfolio-rohit",
+  "version": "1.0.0",
+  "description": "Rohit Bharti's Portfolio",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npm run lite",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitbharti01/portfolio-rohit.git"
+  },
+  "keywords": [
+    "Vanilla",
+    "HTML",
+    "CSS",
+    "and",
+    "JavaScript"
+  ],
+  "author": "Rohit Bharti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rohitbharti01/portfolio-rohit/issues"
+  },
+  "homepage": "https://github.com/rohitbharti01/portfolio-rohit#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
